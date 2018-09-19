@@ -1,0 +1,19 @@
+{
+  "name": "miniprogram-cloud",
+  "version": "0.0.1",
+  "description": "Explore Miniprogram Cloud Dev With Hapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "miniprogram",
+    "hapi"
+  ],
+  "author": "rookielzy",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^16.6.3",
+    "supervisor": "^0.12.0"
+  }
+}
