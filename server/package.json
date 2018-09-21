@@ -13,6 +13,7 @@
   "author": "rookielzy",
   "license": "MIT",
   "dependencies": {
+    "env2": "^2.2.2",
     "hapi": "^16.6.3"
   }
 }
